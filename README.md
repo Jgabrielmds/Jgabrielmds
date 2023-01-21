@@ -16,7 +16,7 @@
  </div>
   
   ### Estudando atualmente:
-  
+  <img align="center" alt="Rafa-Csharp" height="90" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
   
   

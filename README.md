@@ -16,7 +16,7 @@
   
   ### Estudando atualmente:
   <img align="center" alt="Rafa-Csharp" height="90" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-
+  <img align="center" alt="Rafa-Csharp" height="90" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
   
   
